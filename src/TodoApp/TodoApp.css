@@ -1,0 +1,14 @@
+.listTasks{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.taskItem{
+    display: flex;
+    gap:0.2rem;
+    flex-direction: column;
+}
+.buttons{
+    display: flex;
+    gap: 1rem;
+}
