@@ -1,6 +1,12 @@
+import Contador from "./Contador/Contador"
+
+
 function App() {
   return(
-    <h1>Dejame que me vaya</h1>
+    <>
+      <h1>Contador:</h1>     
+      <Contador/>
+    </>
   )
 }
 
